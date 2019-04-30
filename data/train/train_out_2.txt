@@ -1,0 +1,144 @@
+MTAS1_SI1473 sil y ow n iy v ih n ah f sil ah n iy sil 
+MTAS1_SI1473 is 0.681661 over 140 frames.
+FPAS0_SX224 sil hh ow vcl g uh dx ix z y er n vcl d er ix n cl s sil 
+FPAS0_SX224 is 0.672358 over 159 frames.
+MWEW0_SX11 sil hh iy l ax l aw er r eh er l ay sil 
+MWEW0_SX11 is 0.808338 over 166 frames.
+FPKT0_SX98 sil d eh s cl dh ix cl k w eh sh en f ah n iy ae n cl t s er sil 
+FPKT0_SX98 is 0.760952 over 183 frames.
+FPAS0_SI1272 sil w eh v er cl t er ey eh s cl t er f ih z ix cl k s sil 
+FPAS0_SI1272 is 0.720424 over 184 frames.
+FMLD0_SX25 sil ow m l iy l oy er s l ah v n l iy ix n er z sil 
+FMLD0_SX25 is 0.664342 over 189 frames.
+FMLD0_SX385 sil hh ix s el vcl d er f eh l cl t ax z ix f ih w er vcl b r ow cl k ax vcl sil 
+FMLD0_SX385 is 0.631897 over 189 frames.
+FPKT0_SI2168 sil dh ey m ey cl k ah s cl k en f ao r m ax s l ih cl g uh vcl sil 
+FPKT0_SI2168 is 0.69053 over 196 frames.
+MWEW0_SI731 sil ax f y uw z l ey dx er dh ix vcl d ow n cl t eh l ix n sil 
+MWEW0_SI731 is 0.765943 over 198 frames.
+FNLP0_SI678 sil f eh l v ay s ih ng r iy cl k ix n s eh dx er vcl d sil 
+FNLP0_SI678 is 0.695339 over 203 frames.
+FMLD0_SI925 sil dh ax hh iy w ix z ix n cl k ah s cl t ix vcl d iy ix z epi w ay cl t ix vcl b ao r s cl t ix m sil 
+FMLD0_SI925 is 0.640401 over 210 frames.
+FELC0_SX216 sil dh ax s epi m ao l vcl b oy cl p uh cl t ax w ao r m ah n hh ow cl k sil 
+FELC0_SX216 is 0.774506 over 218 frames.
+FPKT0_SX188 sil hh uw w aa th r ay z ih n l ix n ih dx ix cl k s cl p eh s ix cl k aw n cl sil 
+FPKT0_SX188 is 0.693891 over 220 frames.
+FPAS0_SX44 sil b ah s cl k ix vcl b el cl k ix n vcl b ih n eh n vcl jh ix vcl jh ey n iy ng s cl p ao er cl sil 
+FPAS0_SX44 is 0.647307 over 223 frames.
+FPKT0_SI908 sil w iy ow ix z dh aw w iy w ix vcl d ay v ax th er vcl b uh vcl d s ah n sil 
+FPKT0_SI908 is 0.719743 over 225 frames.
+FNLP0_SX228 sil dh ax v hh iy cl p oy ng cl k ah v er l eh cl dh iy ah z hh ix n sil 
+FNLP0_SX228 is 0.662637 over 227 frames.
+FMGD0_SX34 sil d aw n cl t uw cl ch er l iy s cl t er dx iy vcl d ih sh ix z sil 
+FMGD0_SX34 is 0.705031 over 234 frames.
+FMGD0_SX394 sil k aw s iy m ey cl s vcl b ow n z en cl t iy cl s cl t r ao l m sil 
+FMGD0_SX394 is 0.758058 over 234 frames.
+FPAS0_SI944 sil ix th ax f aa r m ix z r eh n cl t ix dh ix r eh m ax s vcl b iy cl t eh n ey vcl d sil 
+FPAS0_SI944 is 0.672822 over 234 frames.
+MPAM0_SX19 sil ax l ow n ax m s ow v ax w er cl k ix n ao f en vcl b iy f l ih m z iy sil 
+MPAM0_SX19 is 0.799358 over 235 frames.
+FMLD0_SX115 sil dh iy ix m l ax n vcl d ix cl t eh cl k s dh ih cl k r aa cl p l ax s ao l ax vcl g ow sil 
+FMLD0_SX115 is 0.699005 over 237 frames.
+MTAS1_SX28 sil b ey vcl g eh cl g aa r vcl d f r w ah n vcl g eh l m cl ax v vcl g eh s sil 
+MTAS1_SX28 is 0.747178 over 246 frames.
+FELC0_SX306 sil ah cl ch ow z ix n sh y uw w el vcl b iy cl k ah m vcl jh eh n er l epi s sil 
+FELC0_SX306 is 0.720662 over 248 frames.
+MPAM0_SX379 sil t ae m vcl g ih v z vcl d r aa dx ix ng l eh s en z ax n cl t er z vcl d ey dx ix s sil 
+MPAM0_SX379 is 0.668167 over 250 frames.
+MWEW0_SX191 sil w ix vcl d r ao l f oy n iy ae n cl k iy z ey sh ix n z ih w ah n s sil 
+MWEW0_SX191 is 0.778002 over 251 frames.
+MPAM0_SI1189 sil ey cl f iy ow vcl g aa n z w er cl k ae cl ch er dx ix n cl p ix z ih sh en sil 
+MPAM0_SI1189 is 0.780761 over 253 frames.
+MWEW0_SI1361 sil w ah dx ix n ix s epi w ah n s eh cl sh en w iy w eh l cl k ax m vcl d ao dx ix dx er z sil 
+MWEW0_SI1361 is 0.742813 over 253 frames.
+MTAS1_SI838 sil ih ng cl k r iy s iy ng cl t ih m vcl b el ax v cl y uw cl p r aa dx ix vcl d ix v eh l vcl m ix n cl sil 
+MTAS1_SI838 is 0.702446 over 263 frames.
+MPAM0_SX289 sil w ah dh er cl p er v cl dh ax l ao sh ix z er v er y uw z f el ix n s iy aa dx el sil 
+MPAM0_SX289 is 0.788974 over 269 frames.
+FPAS0_SX404 sil b ao vcl b er n cl p ey cl p er n l iy z ix n ix vcl b ih vcl b aa m f aa r sil 
+FPAS0_SX404 is 0.818739 over 276 frames.
+FMGD0_SX304 sil ch iy cl s cl t aa cl k ix ng f r aa n dh ax f er s cl t ay m dh eh er w ah n sil 
+FMGD0_SX304 is 0.736602 over 278 frames.
+FPKT0_SX8 sil w ay iy eh l er w ao r iy ow v er s ih l iy ay vcl d ix n z sil 
+FPKT0_SX8 is 0.742342 over 280 frames.
+MTAS1_SX118 sil k ax m vcl b ay n ax cl ao l dh iy n vcl g r iy dx iy ix n cl s ix n ax l aa r vcl jh cl p el sil 
+MTAS1_SX118 is 0.742714 over 280 frames.
+MPAM0_SI1819 sil hh iy r ah vcl b ih z ay s l iy cl p ax l iy w ix th epi w ah n hh y uw vcl jh cl p aa l sil 
+MPAM0_SI1819 is 0.8055 over 284 frames.
+MWEW0_SX371 sil r ey vcl n aw m ix n ah cl p iy dh ix vcl b eh s cl t ay f er vcl b ih z n ix z epi m er vcl jh er z sil 
+MWEW0_SX371 is 0.765166 over 288 frames.
+FELC0_SX126 sil aa r dx ix f ih sh el ix n cl t eh l ax vcl jh ix n s ix s f er r iy l sil 
+FELC0_SX126 is 0.711138 over 289 frames.
+FPAS0_SX134 sil d ix s ih m vcl b r iy vcl jh eh n er ix n ay s epi m ah n cl s cl t ix s cl p eh n ih m ay ae m iy sil 
+FPAS0_SX134 is 0.7043 over 292 frames.
+FPAS0_SX314 sil ih f cl t iy cl p el ao r m ao r vcl jh ah v er s dh er vcl b iy n aw n iy vcl d f er w eh l f eh er sil 
+FPAS0_SX314 is 0.713604 over 292 frames.
+MPAM0_SX109 sil sh iy s l ih cl t ix n s cl p r ey n vcl d er r ay n cl k w ah n dh ix s cl t iy vcl d s epi l ow cl p sil 
+MPAM0_SX109 is 0.700595 over 292 frames.
+FMGD0_SX214 sil dh ax m oy n iy ng vcl d uw ao n dh ix s vcl b ay dx er w eh vcl b l ix s ih n dh ih n ix s ah n sil 
+FMGD0_SX214 is 0.752084 over 301 frames.
+FMLD0_SX205 sil dh ax l ix cl t eh er cl p er s eh l er cl k s cl p eh cl t ix cl t uw el vcl b ey vcl g ow v er dx ix n ao r dx er z sil 
+FMLD0_SX205 is 0.747772 over 305 frames.
+FPKT0_SX368 sil l ao r ix z cl k aa s cl t uw n iy dx ix vcl b l ae vcl g l ah z ix vcl b iy cl k ax m cl p l iy l iy eh l ax vcl g eh cl sil 
+FPKT0_SX368 is 0.721172 over 307 frames.
+FMLD0_SX295 sil hh ih f cl k eh r ow cl k ah m z cl t ax m aa r l hh ae v er r ey n cl ch f er m iy dx iy ix cl t uw sil 
+FMLD0_SX295 is 0.756339 over 308 frames.
+FNLP0_SX408 sil aa vcl d r aa vcl d ix s ah vcl b l ey vcl b eh dx ax hh ae v ix n iy n ah v cl ch ey n vcl jh sil 
+FNLP0_SX408 is 0.688469 over 308 frames.
+FPKT0_SI1538 sil ix cl k eh er vcl jh cl k r n sh vcl b ay ix z vcl d ih m ay vcl d cl p el cl t ix ng cl p ih dh ix vcl b l ih m sil 
+FPKT0_SI1538 is 0.648706 over 311 frames.
+MTAS1_SI2098 sil hh iy vcl d iy w ey sh ao r vcl d hh aa r vcl d l ae ae f ix n l ih cl t ix hh er n ow iy ng l iy sil 
+MTAS1_SI2098 is 0.750913 over 316 frames.
+MTAS1_SX298 sil ay vcl g r eh dh ix n ah vcl b ay z iy sh y uw z dh ax vcl b iy ow v er cl ch aa r vcl jh cl t sil 
+MTAS1_SX298 is 0.850209 over 316 frames.
+FPKT0_SX278 sil t ix f er n er hh ih z cl p r ix s cl t iy cl ch iy cl k ey sh en iy r iy z dh ax w aa l s cl t r iy vcl jh er n el sil 
+FPKT0_SX278 is 0.700387 over 319 frames.
+FNLP0_SI1938 sil f l aa dx ih vcl w ih n vcl d ah z cl k l ah vcl jh ih l cl p r ay ix vcl t uw vcl dh ix vcl d ae m cl p l ao er sil 
+FNLP0_SI1938 is 0.701824 over 322 frames.
+MWEW0_SX281 sil k ao r iy ix n cl t r ih sh cl p l iy cl t ae vcl w ix vcl b iy cl ch vcl b ao l z f er aw er z sil 
+MWEW0_SX281 is 0.811286 over 332 frames.
+FELC0_SI2016 sil hh iy v ao n ow z epi r ow cl p s sil dh ix vcl b ow cl s cl k ah m ah n s cl t aa cl k sil 
+FELC0_SI2016 is 0.769455 over 338 frames.
+FMGD0_SI934 sil ax th ao r iy s ey cl p eh dx ix el s cl t er z aa r ey cl p r ay n cl k aa r dx ix cl sil 
+FMGD0_SI934 is 0.754739 over 346 frames.
+FNLP0_SX48 sil g r ae m ah dh aw vcl g r uw hh er ah cl b r iy ng ih n ih m cl p ey dx iy cl k hh eh vcl d s sil 
+FNLP0_SX48 is 0.686339 over 348 frames.
+MTAS1_SX208 sil r aa vcl b s ae cl b ah dh ax cl p ow ao vcl d sil ix n cl s cl k ae cl ch cl dh ax s cl t r ey vcl d iy s sil 
+MTAS1_SX208 is 0.694726 over 349 frames.
+FELC0_SX36 sil ao l iy vcl d ix m ow s cl t ix cl k aa m cl p l ih sh epi aa r dx ix s ax vcl t eh n cl p aa cl p ix l eh er dx iy sil 
+FELC0_SX36 is 0.689283 over 350 frames.
+MPAM0_SX199 sil y ah m cl ch eh l vcl d er n cl ch ix dx ax v ao er vcl d ix cl k s cl p ow zh er cl t ax cl k ix n cl t ey vcl jh ix s cl t ix z iy z ix z sil 
+MPAM0_SX199 is 0.764917 over 350 frames.
+FMLD0_SI2185 sil sh iy s ix cl ch aa r cl k s eh v n ow vcl b ow n z ix n sh r eh n cl s epi w ae m vcl b ae cl k w er vcl sil 
+FMLD0_SI2185 is 0.787078 over 356 frames.
+FNLP0_SX138 sil dh ix cl k l ah n z iy cl k ah s ix m er s cl p ih l th ax m iy s vcl b ih vcl th ih v cl p er f y uw n sil 
+FNLP0_SX138 is 0.675531 over 360 frames.
+FMLD0_SI822 sil b el cl p er vcl d ah cl sh ix n ey vcl b iy ix ng cl k r iy s cl p ay dx iy ae n cl p ey n f eh cl t ix cl p r aa r cl p r iy z ax v dh ix s cl t r ah vcl d sil 
+FMLD0_SI822 is 0.681831 over 363 frames.
+FNLP0_SX318 sil p l ey s cl t ih m ah m cl p ix cl t ey dx ah z ah vcl b ax f ao er f r aa ao s cl t sil 
+FNLP0_SX318 is 0.691757 over 371 frames.
+FMGD0_SX124 sil aa vcl jh ix cl k s epi m ey dx ix v cl k y uw dx er er vcl b y uw dx ax f el sil 
+FMGD0_SX124 is 0.632806 over 373 frames.
+FELC0_SX396 sil dh ax f ih sh cl t ix vcl g ih n cl t ax l iy cl p r ih n cl t ix cl k l iy ix n ax s er f ax s ax v ix s epi m ao l l eh cl k sil 
+FELC0_SX396 is 0.756916 over 380 frames.
+FPAS0_SI2204 sil p r dx iy s ih l ow m ix cl k eh v ax l aa n cl k eh r iy ix f el vcl d eh m vcl b r aa l ow z ax w aa cl k ix n s cl s eh cl k sil 
+FPAS0_SI2204 is 0.705031 over 384 frames.
+MWEW0_SX101 sil t ih n ix vcl g eh er n sh ih l vcl g r ix n vcl d eh cl k er r ey cl p er cl k l eh s er m z f r ao l aa l ah dh ey z sil 
+MWEW0_SX101 is 0.66829 over 392 frames.
+MWEW0_SI1991 sil w ah th iy cl p el r ow n dh ix s cl t r iy cl t ix n cl k ah s cl t ax m z ix n m ae s cl k s epi ix n eh v ix ng ax m ao l sil 
+MWEW0_SI1991 is 0.701864 over 401 frames.
+MTAS1_SX388 sil hh er r ay vcl d hh ae n sil ey cl k s sil w ix n eh v er dh ix vcl b eh er m eh cl t er cl p r eh sh er cl ch ey n vcl jh ix z sil 
+MTAS1_SX388 is 0.793189 over 402 frames.
+FELC0_SI756 sil m ix cl t ih r iy ix l v s sil s er r eh n ix cl m ao l w ih ng cl k l ey sil r eh vcl d w ey dx ao r vcl b ah m ao f sil 
+FELC0_SI756 is 0.737984 over 417 frames.
+MPAM0_SI1961 sil ax s eh cl t ix n cl t w ih cl ch cl t ih sh er cl s epi l iy v sil ix n iy f eh l cl t ax vcl b r iy f cl b er n ax m ix z ah vcl b er aa r sil 
+MPAM0_SI1961 is 0.720813 over 440 frames.
+FMGD0_SI1564 sil ah z vcl d ih vcl g r uw w ah z vcl b ae aw n ih vcl b ay s epi n ey cl g r eh l f ae n z ix z ae n vcl b eh r w er vcl g r ey z iy ng cl k ae dx ax l sil 
+FMGD0_SI1564 is 0.776167 over 442 frames.
+FMGD0_SI2194 sil hh iy hh ae vcl d f ao l ae n cl t uw ix s ao f vcl jh aa vcl sil ae n aw dx ih vcl jh aa vcl b w ax z cl k ao n ix n iy w ix s cl t r ae n vcl d ix vcl sil 
+FMGD0_SI2194 is 0.70825 over 470 frames.
+FELC0_SI1386 sil ih n w ey cl sh en ix vcl g ow sh iy ey sh ix n s dh iy ih n vcl d ix s cl t r iy vcl b aa r cl k ix n s ax z iy y uw n ix vcl w ix dx ix s ix n dh ax l iy ix n y ix n sil 
+FELC0_SI1386 is 0.739877 over 550 frames.
+FNLP0_SI1308 sil ih n vcl d ey ih dx ih z cl p aa s vcl b uh cl t ix s eh cl p er r ey iy l ay cl t ao n cl p eh r m eh ng dh eh vcl f ax v n ix cl k l iy er f eh cl s sil 
+FNLP0_SI1308 is 0.703701 over 571 frames.
