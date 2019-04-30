@@ -152,41 +152,53 @@ def txt_matrix2spk(txtfile):
 
 def get_arguments():
     parser = argparse.ArgumentParser(description='Description of your path of input and output files.')
-    parser.add_argument('in1', type=, help='path to input in_file.txt')
+    parser.add_argument('in1', help='path to input in_file.txt')
     # parser.add_argument('in2', type=str, help='path to input in_file.txt')
-    parser.add_argument('-out1', "--string", type=str, help='path to input out_file.txt')
-    parser.add_argument('out2', type=str, help='path to input out_file.txt')
+    parser.add_argument('-out1', help='path to input out_file.txt')
+    parser.add_argument('out2', help='path to input out_file.txt')
     # parser.add_argument('out3', type=str, help='path to input out_file.txt')
     # parser.add_argument('out4', type=str, help='path to input out_file.txt')
-    parser.add_argument('csv', type=str, help='path of output file.csv')
+    parser.add_argument('csv', help='path of output file.csv')
     arguments = parser.parse_args()
     return arguments
 
 
 if __name__ == '__main__':
-    args = get_arguments()
-
-    txt1_in1 = args.in1
-    txt1_out1 = args.out1
-    txt1_out2 = args.out2
+    # args = get_arguments()
+    #
+    # txt1_in1 = args.in1
+    # txt1_out1 = args.out1
+    # txt1_out2 = args.out2
     # txt2_in1 = args.in2
     # txt2_out1 = args.out3
     # txt2_out2 = args.out4
-    csvfile = args.csv
+    # csvfile = args.csv
 
-    if not os.path.isfile(txt1_in1 | txt1_out1 | txt1_out2):
-        print("File path {} or {} or {} does not exist. Exiting...".format(txt1_in1, txt1_out1, txt1_out2))
-        sys.exit()
+    # txt1_in1 = "data/test/test1_in.txt"
+    # txt1_out1 = "data/test/test1_out.txt"
+    # txt1_out2 = "data/test/test1_out2.txt"
+    txt1_in1 = "data/train/train1_in.txt"
+    txt1_out1 = "data/train/train1_out.txt"
+    txt1_out2 = "data/train/train1_out2.txt"
+    txt2_in1 = "data/train/train2_in.txt"
+    txt2_out1 = "data/train/train2_out.txt"
+    txt2_out2 = "data/train/train2_out2.txt"
+    # csvfile = "data/test/test.csv"
+    csvfile = "data/train/train.csv"
+
+    # if not os.path.isfile(txt1_in1 | txt1_out1 | txt1_out2):
+    #     print("File path {} or {} or {} does not exist. Exiting...".format(txt1_in1, txt1_out1, txt1_out2))
+    #     sys.exit()
 
     in_spk1 = txt_matrix2spk(txt1_in1)
     out_spk1 = txt_matrix2spk(txt1_out1)
     out_spk2 = txt_matrix2spk(txt1_out2)
-    # in2_spk1 = txt_matrix2spk(txt2_in1)
-    # out2_spk1 = txt_matrix2spk(txt2_out1)
-    # out2_spk2 = txt_matrix2spk(txt2_out2)
+    in2_spk1 = txt_matrix2spk(txt2_in1)
+    out2_spk1 = txt_matrix2spk(txt2_out1)
+    out2_spk2 = txt_matrix2spk(txt2_out2)
 
-    array_merge = merge_test(in_spk1, out_spk1, out_spk2)
-    # array_merge = merge_test(in_spk1, in2_spk1, out_spk1, out_spk2, out2_spk1, out2_spk2)
+    # array_merge = merge_test(in_spk1, out_spk1, out_spk2)
+    array_merge = merge_train(in_spk1, in2_spk1, out_spk1, out_spk2, out2_spk1, out2_spk2)
 
     array2csv(array_merge, csvfile)
 
