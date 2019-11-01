@@ -1,6 +1,6 @@
-# The Audio Auditor
+# The Audio Auditor: Participant-Level Membership Inference in Internet of Things Voice Services
 
-paper link: [The Audio Auditor: Participant-Level Membership Inference in
+The paper is accepted by PPML workshop 2019: [The Audio Auditor: Participant-Level Membership Inference in
 Internet of Things Voice Services](https://arxiv.org/abs/1905.07082)
 
 _ _ _
