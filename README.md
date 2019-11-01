@@ -9,7 +9,7 @@ The primary task to train an audio auditor is to build up several shadow models 
 
 For participant-level membership, some users' pertinent characters are extracted from each output, including the transcription text (denoted as *TXT*), the posterior probability (denoted as *Probability*), and the audio frame length (denoted as *Frame Length*). The features of the auditor's training set are written as: `*{TXT1=type(string), Probability1=type(float), Frame_Length1=type(integer), ..., TXTn=type(txt), Probabilityn=type(float), Frame_Lengthn=type(integer), class}*`, where *n* is the number of audios belonging to a speaker.
 
-<p align="center"><img src="https://github.com/skyInGitHub/The-Audio-Auditor/issues/1#issue-515852801"></p> 
+<p align="center"><img width="1009" alt="Audio Auditor Methodology" src="https://user-images.githubusercontent.com/13388819/67995768-573b9400-fca0-11e9-9114-3a2d1287dd8a.png"></p> 
 
 ## Build the ASR model
 ### Goals
